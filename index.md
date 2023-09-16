@@ -30,9 +30,7 @@ layout: default
     <h1 class="callout-title">Doin the most good with evil!</h1>
     <div class="callout-copy">
       <p>
-        Evil Technologies is the leader in evil genius hideawaies, private island aquasitions, as well as operations management for keeping those pesky "tourists out of you hair, as well as agent snaring <em>MANTRAPS</em>, which includes both "non-lethal"
-        like the zaptronics zaputron mach 3, the diablo chili eye wash station, or a plain ol' dart laced with our secret dart'oherbs and spices, and "wish it was lethal"
-         traps like the papercutamatic inflicts 1,000 papercuts before spraying a healthy dose of lemon juice to prevent the scurvy, the attack dogs who cannot bark, yes we breed em with no vocal cues so they'll never hear them coming, , and our complete sensory depravation chambers for those pesky long term agents that you just can't shake.
+        At 3v1l T3chnologies, we are your gateway to the world of diabolical ingenuity. Inspired by the wickedly creative need to stay ahead of todays superspies, we bring you the tools and gadgets that will make your sinister dreams a reality. Whether you're a budding villain or an experienced mastermind, our cutting-edge products are designed to help you conquer the world, one dastardly plan at a time.
       </p>
       <p>
         We believe there are <strong>at least a billion people</strong> who can
@@ -55,7 +53,8 @@ layout: default
   <div class="home-section">
     <h2>THE FOUNDERS</h2>
     <p>
-      These are the two guys that made Evil Technologies &copy; <sup><quote>Doing the most good with evil!&trade;</quote></sup> the world known super organization it is today.
+      These are the two guys that made Evil Technologies &copy; <sup><quote>Doing the most good with evil!&trade;</quote></sup> the world known super organization it is today. Our mission is to empower the evil genius in everyone by offering high-quality, game-inspired products that enhance the villainous experience.
+      Join us in embracing the dark side, and together, we'll reshape the world in our image.
     </p>
 
     <div class="bio-wrapper">
