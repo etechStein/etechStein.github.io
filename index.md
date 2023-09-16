@@ -69,7 +69,7 @@ layout: default
            Dr. Victor Malice is the brilliant and enigmatic CEO of 3v1l T3chnologies, the world's leading manufacturer of diabolical gadgets. With a doctorate in Evil Engineering from the prestigious Villainous University, Dr. Malice has dedicated his life to perfecting the art of villainy and innovation, rumors that he's secretly a supervillain
             are slightly exaggerated.
           </p>
-          <h6>VisionM</h6>
+          <h6>Vision</h6>
           <p> 
           As the CEO of 3v1l T3chnologies, Dr. Malice has a clear vision: to empower individuals with the tools and technology needed to achieve their wildest villainous dreams. He believes that everyone has the potential for greatness in the world of evil, and his products are designed to make that journey accessible and thrilling.
           </p>
