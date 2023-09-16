@@ -53,7 +53,7 @@ layout: default
   <div class="home-section">
     <h2>THE FOUNDERS</h2>
     <p>
-      Theseis the guy that made Evil Technologies &copy; <sup><quote>Doing the most good with evil!&trade;</quote></sup> the world known super organization it is today. Our mission is to empower the evil genius in everyone by offering high-quality products that enhance the villainous experience.
+      This is the guy that made Evil Technologies &copy; <sup><quote>Doing the most good with evil!&trade;</quote></sup> the world known super organization it is today. Our mission is to empower the evil genius in everyone by offering high-quality products that enhance the villainous experience.
       Join us in embracing the dark side, and together, we'll reshape the world in our image.
     </p>
 
