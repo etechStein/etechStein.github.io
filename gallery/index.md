@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gallery for Learn Enough JavaScript to Be Dangerous
+title: Gallery for evil technologies
 ---
 
 <div class="gallery col-three">
