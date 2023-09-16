@@ -1,31 +1,55 @@
 ---
 layout: post
-title: This is the title of the first post
+title: first post
 postHero: /images/shark.jpg
-author: Me, Myself, and I
-authorTwitter: http://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
-postFooter: Additional information, and maybe a <a href="#">link or two</a>
+author: Glenn Easter
+authorTwitter: http://twitter.com/etech
+gravatar: 
+postFooter: Copyright 2023 3v1l L4b5
 ---
 
-Call me *Ishmael*. Some years ago–*never mind how long
-precisely*–having little or no money in my purse, and nothing
-particular to interest me on shore, I thought I would sail about a little
-and see the watery part of the world. It is a way I have of driving off
-the spleen and regulating the circulation.
+Explore Our Products
 
 <img class="pull-left" src="http://placekitten.com/g/400/200" alt="kitten">
 
-Whenever I find myself growing grim about the mouth; whenever it is a damp,
-drizzly November in my soul; whenever I find myself involuntarily pausing
-before coffin warehouses, and bringing up the rear of every funeral I meet;
-and especially whenever my hypos get such an upper hand of me, that it
-requires a strong moral principle to prevent me from deliberately stepping
-into the street, and methodically knocking people’s hats off—then, I
-account it high time to get to sea as soon as I can. This is my substitute
-for pistol and ball.
+Welcome to the heart of 3v1l T3chnologies, where you can browse and purchase a wide array of gadgets, gear, and equipment designed to fuel your inner villain. Each product is carefully crafted to enhance your Evil Genius 2 experience, whether you're plotting world domination or simply want to look the part.
 
-With a philosophical flourish Cato throws himself upon
-his sword; I quietly take to the ship. There is nothing surprising in this.
-If they but knew it, almost all men in their degree, some time or other,
-cherish very nearly the same feelings towards the ocean with me.
+Gadgets
+
+Unleash your genius with our selection of diabolical gadgets. From mind control helmets to deadly traps, these products will have you feeling like a true mastermind.
+
+Explore Gadgets
+
+Villainous Apparel
+
+Dress for success with our stylish and functional villainous attire. Look the part while you execute your nefarious plans with flair.
+
+Explore Apparel
+
+Lair Essentials
+
+Equip your secret lair with the latest in evil technology. Our lair essentials will help you maintain control and security over your underground operations.
+
+Explore Lair Essentials
+
+Henchmen Recruitment
+
+No villain is complete without their loyal henchmen. Browse our selection of potential minions to build the ultimate team.
+
+Explore Henchmen
+
+Featured Products
+
+Mind Control Helmet
+
+Take control of the minds around you with this cutting-edge helmet. Perfect for subtle manipulation or commanding an army of followers.
+
+TrapMaster 5000
+
+Ensure the safety of your lair by setting up ingenious traps. The TrapMaster 5000 is your key to warding off unwanted intruders.
+
+Join the Dark Side of Gaming
+
+Are you ready to transform into the ultimate evil genius? Start by exploring our products and discover the power that comes with embracing your wicked side.
+
+Shop Now
