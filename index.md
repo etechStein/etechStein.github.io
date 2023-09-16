@@ -36,9 +36,9 @@ layout: default
       </p>
       <p>
         We believe there are <strong>at least a billion people</strong> who can
-        benefit from learning technical sophistication, probably more. To join
+        benefit from being subjucated under the thumb of a wise  ruler, probably more. To join
         our movement,
-        <a href="https://learnenough.com/#email_list">sign up for our official
+        <a href="https://etechstein.github.io/#email_list">sign up for our official
         email list</a> now.
       </p>
       <h3>Background</h3>
