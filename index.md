@@ -53,7 +53,7 @@ layout: default
   <div class="home-section">
     <h2>THE FOUNDERS</h2>
     <p>
-      Theseis the guy that made Evil Technologies &copy; <sup><quote>Doing the most good with evil!&trade;</quote></sup> the world known super organization it is today. Our mission is to empower the evil genius in everyone by offering high-quality, game-inspired products that enhance the villainous experience.
+      Theseis the guy that made Evil Technologies &copy; <sup><quote>Doing the most good with evil!&trade;</quote></sup> the world known super organization it is today. Our mission is to empower the evil genius in everyone by offering high-quality products that enhance the villainous experience.
       Join us in embracing the dark side, and together, we'll reshape the world in our image.
     </p>
 
@@ -66,7 +66,7 @@ layout: default
         </a>
         <div class="bio-copy">
           <p>
-           Dr. Victor Malice is the brilliant and enigmatic CEO of 3v1l T3chnologies, the world's leading manufacturer of diabolical gadgets inspired by the Evil Genius 2 universe. With a doctorate in Evil Engineering from the prestigious Villainous University, Dr. Malice has dedicated his life to perfecting the art of villainy and innovation, rumors that he's secretly a supervillain
+           Dr. Victor Malice is the brilliant and enigmatic CEO of 3v1l T3chnologies, the world's leading manufacturer of diabolical gadgets. With a doctorate in Evil Engineering from the prestigious Villainous University, Dr. Malice has dedicated his life to perfecting the art of villainy and innovation, rumors that he's secretly a supervillain
             are slightly exaggerated.
           </p>
         </div>
