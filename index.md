@@ -38,23 +38,10 @@ layout: default
         We believe there are <strong>at least a billion people</strong> who can
         benefit from being subjucated under the thumb of a wise  ruler, probably more. To join
         our movement,
-        <a href="https://etechstein.github.io/#email_list">sign up for our official
+        <a href="[def]">sign up for our official
         email list</a> now.
       </p>
-      <h3>Background</h3>
-      <p>
-        Learn Enough to Be Dangerous is an outgrowth of the
-        <a href="http://railstutorial.org/">Ruby on Rails Tutorial</a> and the
-        <a href="http://www.softcover.io/">Softcover publishing platform</a>.
-        This page is part of the sample site for
-        <a href="https://learnenough.com/css-tutorial"><em>Learn Enough CSS and
-        Layout to Be Dangerous</em></a>, which teaches the basics of
-        <strong>C</strong>ascading <strong>S</strong>tyle
-        <strong>S</strong>heets, the language that allows web pages to be styled.
-        Other related tutorials can be found at
-        <a href="https://learnenough.com/">learnenough.com</a>.
-      </p>
-    </div>
+   </div>
   </div>
 
   <div class="home-section">
@@ -104,3 +91,6 @@ layout: default
     </div>
   </div>
 </div>
+
+
+[def]: ttps://etechstein.github.io/#email_lis
