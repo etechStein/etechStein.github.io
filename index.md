@@ -8,17 +8,17 @@ layout: default
       <h1>Evil Technilogies!</h1>
       <ul class="social-list">
         <li>
-          <a href="http://example.com/" class="social-link">
+          <a href="etechstein.github.io/blog" class="social-link">
             <i class="fa fa-facebook"></i>
           </a>
         </li>
         <li>
-          <a href="http://example.com/" class="social-link">
+          <a href="http://etechstein.github.io/gallery" class="social-link">
             <i class="fa fa-twitter"></i>
           </a>
         </li>
         <li>
-          <a href="http://example.com/" class="social-link">
+          <a href="http://etechstein.github.io" class="social-link">
             <i class="fa fa-github"></i>
           </a>
         </li>
