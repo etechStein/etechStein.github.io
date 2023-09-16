@@ -73,7 +73,8 @@ layout: default
           </p>
         </div>
 
-        <div class="bio-box">
+            <div class="bio-wrapper">
+            <div class="bio-box">
             <img src="http://placekitten.com/g/400/400">
             <h3>Zaphod Beeblebrox</h3>
             <a href="http://twitter.com/etech" class="social-link">
@@ -86,7 +87,7 @@ layout: default
               </p>
             </div>
       </div>
-      
+      </div>
       </div>
     </div>
   </div>
