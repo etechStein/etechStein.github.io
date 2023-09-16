@@ -73,8 +73,6 @@ layout: default
           </p>
         </div>
 
-            <div class="bio-wrapper">
-            <div class="bio-box">
             <img src="http://placekitten.com/g/400/400">
             <h3>Zaphod Beeblebrox</h3>
             <a href="http://twitter.com/etech" class="social-link">
@@ -86,8 +84,6 @@ layout: default
                Zaphod is the former leader of the universe, usually found bumming around somewhere in the vacinity of beetlegeuse. Any accusations of Zaphond being a supervillian are slander and will be taken care of...I'm talking you Arthur Dent...                are slightly exaggerated.
               </p>
             </div>
-      </div>
-      </div>
       </div>
     </div>
   </div>
