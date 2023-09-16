@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first post
+title: Products
 postHero: /images/shark.jpg
 author: Glenn Easter
 authorTwitter: http://twitter.com/etech
