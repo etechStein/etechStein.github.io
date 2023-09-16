@@ -73,6 +73,11 @@ layout: default
           <p> 
           As the CEO of 3v1l T3chnologies, Dr. Malice has a clear vision: to empower individuals with the tools and technology needed to achieve their wildest villainous dreams. He believes that everyone has the potential for greatness in the world of evil, and his products are designed to make that journey accessible and thrilling.
           </p>
+
+          <h6>Legacy</h6>
+          <p>
+          With a thirst for world domination and an unyielding dedication to the world of gaming, Dr. Victor Malice is not just a CEO but a symbol of what it means to be a true evil genius. His legacy at 3v1l T3chnologies continues to inspire aspiring villains and gamers alike, pushing the boundaries of what's possible in the world of virtual villainy.
+          </p>
         </div>
       </div>
     </div>
