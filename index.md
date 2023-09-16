@@ -5,7 +5,7 @@ layout: default
 <div class="home">
   <div class="full-hero hero-home">
     <div class="hero-content">
-      <h1>CODE DANGEROUSLY</h1>
+      <h1>Evil Technilogies!</h1>
       <ul class="social-list">
         <li>
           <a href="http://example.com/" class="social-link">
@@ -27,14 +27,12 @@ layout: default
   </div>
 
   <div class="home-callout">
-    <h1 class="callout-title">The Learn Enough Story</h1>
+    <h1 class="callout-title">Doin the most good with evil!</h1>
     <div class="callout-copy">
       <p>
-        Learn Enough to Be Dangerous is a leader in the movement to teach the
-        world <em>technical sophistication</em>, which includes both "hard
-        skills" like coding, command lines, and version control, and "soft
-         skills" like guessing keyboard shortcuts, Googling error messages, and
-        knowing when to just reboot the darn thing.
+        Evil Technologies is the leader in evil genius hideawaies, private island aquasitions, as well as operations management for keeping those pesky "tourists out of you hair, as well as agent snaring <em>MANTRAPS</em>, which includes both "non-lethal"
+        like the zaptronics zaputron mach 3, the diablo chili eye wash station, or a plain ol' dart laced with our secret dart'oherbs and spices, and "wish it was lethal"
+         traps like the papercutamatic inflicts 1,000 papercuts before spraying a healthy dose of lemon juice to prevent the scurvy, the attack dogs who cannot bark, yes we breed em with no vocal cues so they'll never hear them coming, , and our complete sensory depravation chambers for those pesky long term agents that you just can't shake.
       </p>
       <p>
         We believe there are <strong>at least a billion people</strong> who can
