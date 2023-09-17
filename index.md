@@ -5,15 +5,15 @@ layout: default
 <div class="home">
   <div class="full-hero hero-home">
     <div class="hero-content">
-      <h1>Evil Technilogies!</h1>
+      <h1>Evil Technologies!</h1>
       <ul class="social-list">
         <li>
-          <a href="etechstein.github.io/blog" class="social-link">
+          <a href="etechstein.github.io/" class="social-link">
             <i class="fa fa-facebook"></i>
           </a>
         </li>
         <li>
-          <a href="http://etechstein.github.io/gallery" class="social-link">
+          <a href="http://etechstein.github.io/" class="social-link">
             <i class="fa fa-twitter"></i>
           </a>
         </li>
