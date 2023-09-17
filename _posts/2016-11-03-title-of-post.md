@@ -29,23 +29,28 @@ Dress for success with our stylish and functional villainous attire. Look the pa
 </div>
 
 <div id = "lair">
+
 <h4>Lair Essentials</h4>
 
 Equip your secret lair with the latest in evil technology. Our lair essentials will help you maintain control and security over your underground operations.
 
 <a href = "#lair">Explore Lair Essentials</a>
+
 </div>
 
 <div id = "hench">
+
 <h4>Henchmen Recruitment</h4>
 
 No villain is complete without their loyal henchmen. Browse our selection of potential minions to build the ultimate team.
 
 <a href = "#hench">Explore Henchmen</a>
+
 </div>
 
 
 <div id = "feat">
+
 <h4>Featured Products</h4>
 
 <h6><em>Mind Control Helmet</em></h6>
@@ -59,4 +64,5 @@ Ensure the safety of your lair by setting up ingenious traps. The TrapMaster 500
 Are you ready to transform into the ultimate evil genius? Start by exploring our products and discover the power that comes with embracing your wicked side.
 
 <a href ="#feat">Shop Now</a>
+
 </div>
