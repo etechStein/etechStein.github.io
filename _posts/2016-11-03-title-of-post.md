@@ -14,13 +14,12 @@ Explore Our Products
 
 Welcome to the heart of 3v1l T3chnologies, where you can browse and purchase a wide array of gadgets, gear, and equipment designed to fuel your inner villain. Each product is carefully crafted to enhance your Evil Genius 2 experience, whether you're plotting world domination or simply want to look the part.
 
-< div id = "gadgets">
+
 <h4>Gadgets</h4>
 
 Unleash your genius with our selection of diabolical gadgets. From mind control helmets to deadly traps, these products will have you feeling like a true mastermind.
 
 <a href = "#gadgets">Explore Gadgets </a>
-</div>
 <div id = "#clothing">
 <h4>Villainous Apparel</h4>
 
