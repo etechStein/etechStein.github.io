@@ -43,6 +43,8 @@ No villain is complete without their loyal henchmen. Browse our selection of pot
 
 <a href = "#hench">Explore Henchmen</a>
 </div>
+
+
 <div id = "feat">
 <h4>Featured Products</h4>
 
