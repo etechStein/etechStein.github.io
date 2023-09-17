@@ -59,7 +59,7 @@ layout: default
 
     <div class="bio-wrapper">
       <div class="bio-box">
-        <img src="http://placekitten.com/g/400/400">
+        <img src="/images/victor.jpg">
         <h3>Dr Victor Malice</h3>
         <a href="http://twitter.com/etech" class="social-link">
           <i class="fa fa-twitter"></i>
