@@ -1,6 +1,6 @@
----
+<!-- ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome"
 date:   2023-09-16 09:29:02 -0700
 categories: jekyll update
 ---
@@ -25,5 +25,24 @@ print_hi('Tom')
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+#[jekyll-gh]:   https://github.com/jekyll/jekyll
+#[jekyll-talk]: https://talk.jekyllrb.com/
+# -->
+
+
+About Us:
+Who We Are
+
+At 3v1l T3chnologies, we are passionate gamers and aspiring supervillains who have come together to celebrate the wicked world of Evil Genius 2. Our team of diabolical engineers and designers work tirelessly to bring the game's essence to life through our range of products.
+
+Our Mission
+
+Our mission is simple yet sinister: to provide you with the tools, gadgets, and gear you need to achieve your villainous goals. We want to make sure that your journey into the world of Evil Genius 2 is as immersive and thrilling as possible.
+
+Why Choose Us
+
+Authenticity: Our products are designed with meticulous attention to detail, ensuring they align seamlessly with the Evil Genius 2 universe.
+
+Quality: We take pride in offering high-quality items that are built to last through countless nefarious schemes.
+
+Community: Join our community of like-minded individuals who share your passion for gaming, gadgets, and world domination
