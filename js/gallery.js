@@ -1,4 +1,6 @@
 function activateGallery () {
+    alert("I'm working");
+
     let thumbnails = document.querySelector("#gallery-thumbs > div > img");
 
     let mainImage = document.querySelector("#gallery-photo img");
